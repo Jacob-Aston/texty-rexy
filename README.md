@@ -26,4 +26,8 @@ This project uses a MIT license.
 
 Github profile page: [Jacob-Aston](https://github.com/Jacob-Aston)
 
+Deployed Page: https://texty-rexy.herokuapp.com/
+
+Repo: https://github.com/Jacob-Aston/texty-rexy
+
 ---
